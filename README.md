@@ -1,4 +1,4 @@
-# see: https://language-selector.github.io
+# see: https://language-select.github.io
 
 &lt;language-selector> Web Component
 
